@@ -1,0 +1,157 @@
+Could not create Biology department. Chair id 110 is not part of faculty.
+
+List of Departments
+
+Dept Name                    Dept ID                       
+-------------------------------------------------------
+ComputerScience               100                           
+Education                     101                           
+Business                      102                           
+Engineering                   103                           
+
+Could not add Andy_Chan to faculty. Department 130 is not a valid department.
+
+List of Faculties
+
+Faculty Name                 Faculty ID                    
+-------------------------------------------------------
+John_Smith                    600                           
+Bob_Anderson                  601                           
+Sue_Clark                     602                           
+Abu_Talib                     603                           
+Nancy_Bank                    604                           
+Susan_Brown                   605                           
+Ahmad_Saleh                   606                           
+Beth_Card                     607                           
+Joe_Abraham                   608                           
+
+Faculties in Department 100
+
+Faculty Name                 Faculty ID                    
+-------------------------------------------------------
+John_Smith                    600                           
+Bob_Anderson                  601                           
+Sue_Clark                     602                           
+
+Faculties in Department 101
+
+Faculty Name                 Faculty ID                    
+-------------------------------------------------------
+Abu_Talib                     603                           
+Nancy_Bank                    604                           
+Susan_Brown                   605                           
+
+Faculties in Department 102
+
+Faculty Name                 Faculty ID                    
+-------------------------------------------------------
+Ahmad_Saleh                   606                           
+Beth_Card                     607                           
+Joe_Abraham                   608                           
+
+Could not list faculty. Dept ID 130 is not a valid department.
+
+Could not add Layla_Esmail. Advisor ID 910 is not part of faculty.
+
+List of Students
+
+Student Name                 Student ID                    
+-------------------------------------------------------
+Kathy_Chen                    500                           
+Kelly_Wong                    501                           
+
+Students of faculty 600
+
+Student Name                 Student ID                    
+-------------------------------------------------------
+Kathy_Chen                    500                           
+Kelly_Wong                    501                           
+
+Could not list students. Faculty ID 650 is not part of faculty.
+
+Could not create Bio103 course. Faculty ID 706 is not part of faculty.
+
+List of Courses
+
+Course Name                  Course ID                     
+-------------------------------------------------------
+CS111                         200                           
+CS211                         201                           
+CS311                         202                           
+Ed100                         203                           
+Ed200                         204                           
+Ed300                         205                           
+Bus101                        206                           
+Bus102                        207                           
+Bus103                        208                           
+
+Courses taught by faculty 606
+
+Course Name                  Course ID                     
+-------------------------------------------------------
+Bus101                        206                           
+Bus102                        207                           
+
+Could not list courses. Faculty ID 706 is not part of faculty.
+
+Courses in Department 100
+
+Course Name                  Course ID                     
+-------------------------------------------------------
+CS111                         200                           
+CS211                         201                           
+CS311                         202                           
+
+Courses in Department 101
+
+Course Name                  Course ID                     
+-------------------------------------------------------
+Ed100                         203                           
+Ed200                         204                           
+Ed300                         205                           
+
+Courses in Department 102
+
+Course Name                  Course ID                     
+-------------------------------------------------------
+Bus101                        206                           
+Bus102                        207                           
+Bus103                        208                           
+
+Could not list courses. Dept ID 130 is not a valid department.
+
+Could not add course to students schedule. Course ID 230 is not a valid course ID.
+
+Courses taken by student 500
+
+Course Name                  Course ID                     
+-------------------------------------------------------
+CS111                         200                           
+CS211                         201                           
+CS311                         202                           
+
+Could not list courses. Student ID 520 is not a valid student ID.
+
+Student 500 cannot drop course. Course ID 231 is not a valid course ID.
+
+Student 550 cannot drop course. Student ID 550 is not a valid student ID.
+
+Courses taken by student 500
+
+Course Name                  Course ID                     
+-------------------------------------------------------
+CS111                         200                           
+CS211                         201                           
+CS311                         202                           
+
+Could not assign faculty 610 to department chair. Faculty ID 610 is not part of faculty.
+
+Could not assign faculty 601 to department chair. Dept ID 110 is not a valid department.
+
+Courses taught by faculty 600
+
+Course Name                  Course ID                     
+-------------------------------------------------------
+CS111                         200                           
+CS211                         201                           
+CS311                         202 
